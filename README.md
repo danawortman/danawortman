@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I'm Dr. Dana Wortman, an Assistant Professor at the University of Colorado Colorado Springs in Game Design and Development and Computer Science. I've been teaching and doing research for over 21 years.
+
+I'm currently working on research in Visualization, Artificial Intelligence, Game Design and Development, and Education.
+
+I'm working on several Unity certifications.
+
+I'm looking to collaborate on AI applications, predominantly in the education space.
